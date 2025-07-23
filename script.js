@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
             artist: "Fuego Primordial",
             date: "15 de Mayo, 2026",
             time: "20:00",
-            venue: "Activación de la voluntad, identidad y energía masculina sagradaArena Ciudad de México",
+            venue: "Activación de la voluntad, identidad y energía masculina sagrada Arena Ciudad de México",
             prices: { general: 65.00, vip: 150.00 },
             image: 'https://images.unsplash.com/photo-1540039155733-5bb30b53aa14?w=800'
         },
@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
             artist: "Agua Solar",
             date: "22 de Junio, 2026",
             time: "21:00",
-            venue: "Apertura del corazón, emoción colectiva y energía femenina elevada Ciudad de México",
+            venue: "Apertura del corazón, emoción colectiva y energía femenina elevada Arena Ciudad de México",
             prices: { general: 55.00, vip: 130.00 },
             image: 'https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800'
         },
@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
             artist: "Espejo Cósmico",
             date: "18 de Julio, 2026",
             time: "20:30",
-            venue: "Reflexión espiritual, despertar masivo y alineación con el Yo Superior",
+            venue: "Reflexión espiritual, despertar masivo y alineación con el Yo Superior Arena Ciudad de México",
             prices: { general: 70.00, vip: 165.00 },
             image: 'https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?w=800'
         },
